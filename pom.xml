@@ -12,7 +12,7 @@
     <properties>
         <mybatis.version>3.5.1</mybatis.version>
         <spring.version>5.1.6.RELEASE</spring.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <junit.version>5.4.1</junit.version>
         <mockrunner-jdbc.version>2.0.1</mockrunner-jdbc.version>
         <junit.version>5.4.2</junit.version>
